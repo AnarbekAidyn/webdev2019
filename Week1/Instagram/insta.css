@@ -1,0 +1,120 @@
+body{
+    background-color: #F8F8FF;
+}
+
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+.img-control{
+   float: left;
+   margin-top: 120px;
+   margin-left: 230px;
+}
+.login{
+    background-color: white;
+    float: right;
+    margin-top: 50px;
+    margin-right: 230px;
+    width: 265px;
+    height: 470px;
+    border-color: #DCDCDC; /* Цвет границы */ 
+    border-style: solid;
+    padding: 3px;
+    border-width: thin;
+    font-family: 'billabong';
+    font-weight: bold;
+}
+.insta-img{
+    margin-top: 20px;
+}
+.firsttext{
+    padding-left: 3;
+    padding-right: 3;
+    color: gray;
+    font-family: Arial;
+    margin-left: 25;
+    margin-right: 25;
+    font-size: 13px;
+    text-align: center;
+}
+#buttomfacebook{
+ height: 25;
+width: 220;
+color:white;
+font-family: Arial;
+font-size: 11;
+background-color: #1E90FF;
+border-radius: 5px; 
+margin-left: 25;
+font-weight: bold;
+}
+.or{
+    font-family: Arial;
+    font-size: 10px;
+    color: gray;
+    margin-left: 40px;
+    margin-top: 15px;
+    padding-left: 0;
+}
+.tables{
+        height: 25;
+        margin-top: 7px;
+        width:  220px;
+        font-size: 10   ;
+        
+        border-radius: 5px;
+        margin-left: 25px;
+}
+#registration{
+        margin-top: 15px;
+        height: 25;
+    width: 220;
+    color:white;
+    font-family: Arial;
+    font-size: 11;
+    background-color: #1E90FF;
+    border-radius: 5px; 
+    margin-left: 25;
+    font-weight: bold;   
+}
+.lastword{
+    margin-top: 15px;
+    margin-left: 17px;
+    margin-right: 17px;
+    padding-left: 10;
+    padding-right: 10;
+    color: gray;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+}
+.entertable{
+    width: 260;
+    margin-top: 35;
+    height: 60;
+   
+    background-color: white;
+    border-color: #DCDCDC; /* Цвет границы */ 
+    border-style: solid;
+    padding: 3px;
+    border-width: thin;
+    font-weight: bold;
+    
+}
+.lastbox{
+    font-family: Arial;
+    font-size:11px;
+    margin-top: 20px;
+    margin-left: 65px;
+    font-weight: normal;
+}
+.lastbox2{
+
+    font-family: Arial;
+    font-size:12px;
+    margin-top: 50px;
+    margin-left: 65px;
+    font-weight: normal;
+}
