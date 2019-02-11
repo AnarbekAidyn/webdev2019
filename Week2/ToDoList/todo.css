@@ -1,0 +1,93 @@
+.head{
+    height: 50;
+    background-color: black;
+   
+    
+}
+ul li.checked{
+    background:#ffffff;
+    color:black;
+    text-decoration: line-through;
+}
+ul li{
+
+    cursor: pointer;
+    list-style-type: none;
+    border:1px solid gainsboro;
+    width: 1000;
+    height: 40px;
+    
+}
+.close{
+    position: absolute;
+    right: 200;
+    cursor: pointer;
+    margin-top: 5;
+    font-weight: bold;
+    color:white;
+    font-size: 20;
+    border:1px solid white;
+    background-color: #ff0000;
+    border-radius: 3px;
+}
+.checkclass{
+    margin-right: 20;
+    width: 20;
+    height: 20;
+}
+.head p{
+    color: gray;
+    font-size: 20;
+    font-family: Arial;
+    margin-left: 180px;
+    padding-top: 12;  
+}
+.delete{
+    padding-top: 10;
+    position: absolute;
+    right: 0;
+    padding-right: 25px;
+}
+#myinput{
+    width: 550;
+    height: 35;
+    margin-left: 100;
+    border-radius: 50;
+    padding: 5;
+}
+.main{
+    font-size: 35;
+    font-family: Arial;
+    color:black;
+    margin-left: 300;
+    margin-top: 70;
+}
+#input{
+    width: 550;
+    height: 40;
+    border:1 solid ;
+
+    margin-left: 100;
+    border-radius: 50;
+    padding: 5;
+    
+}
+.bttn{
+    border-radius: 4;
+}
+#bttn{
+    background-color: #4169E1;
+    width: 60;
+    height: 35;
+    margin-left: 20;
+    font-family: Arial;
+    font-size: 18;
+    color: white;
+    border-radius: 7;
+}
+#items{
+    font-family:Arial;
+    font-size:30;
+    padding-top: 0px;
+
+}
