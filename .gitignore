@@ -191,7 +191,8 @@ venv.bak/
 bin/                
 Include/            
 Lib/  
-Scripts/                
+Scripts/   
+tcl/             
 .idea/
 pip-selfcheck.json
 pyvenv.cfg
